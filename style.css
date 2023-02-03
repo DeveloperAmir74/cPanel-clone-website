@@ -1,0 +1,388 @@
+.main-header {
+    background-color: #293a4a;
+}
+
+.header-logo img {
+    max-width: 13%;
+    margin-top: 2%;
+}
+
+.header-menu ul {
+    margin-top: -39px;
+    margin-left: 12%;
+}
+
+.header-menu ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+.header-menu ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px 20px;
+    transform: .5s;
+}
+
+.header-menu ul li a:hover {
+    color: #ff6c2c;
+}
+
+.header-menu ul li a i {
+    color: #ff6c2c;
+}
+
+.header-menu2 ul {
+    margin-top: 8px;
+}
+
+.header-menu2 ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+.header-menu2 ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 10px 20px;
+    transform: .5s;
+}
+
+.header-menu2 ul li a:hover {
+    color: #ff6c2c;
+}
+
+.header-menu2 ul li a i {
+    color: #ff6c2c;
+}
+
+.active {
+    color: #ff6c2c;
+}
+
+.active,
+span {
+    color: #ff6c2c;
+}
+
+/* header-seciton end */
+
+.banner-section {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 530px;
+    background-position: right;
+    border-bottom: 11px solid #ff6c2c;
+    background-image: url(https://i.postimg.cc/5tkhfzSm/mastehead-new.png);
+}
+
+.banner-text {
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.banner-text h1 {
+    font-size: 50px;
+}
+
+.banner-text h5 {
+    font-size: 25px;
+    color: #293a4a;
+}
+
+.bnner-btn a {
+    text-decoration: none;
+    height: 40px;
+    width: 300px;
+    line-height: 35px;
+    border: 1px solid #ff6c2c;
+    text-align: center;
+    float: left;
+    color: #ff6c2c;
+    border-radius: 5px;
+    margin-left: 5%;
+}
+
+.bnner-btn2 a {
+    text-decoration: none;
+    height: 40px;
+    width: 300px;
+    line-height: 40px;
+    background-color: #ff6c2c;
+    text-align: center;
+    float: left;
+    color: white;
+    margin-left: 25px;
+    border-radius: 5px;
+}
+
+/* <!-- banner--section end -->
+<!-- lead-section start --> */
+
+.lead-seciton {
+    margin-left: 7%;
+}
+
+.border1 {
+    border: 1px solid rgba(33, 8, 8, 0.226);
+    width: 70%;
+    margin: auto;
+    margin-left: 143px;
+}
+
+.learn-more-btn a {
+    text-decoration: none;
+    height: 40px;
+    width: 500px;
+    line-height: 40px;
+    background-color: #ff6c2c;
+    ;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.go-live-width {
+    width: 100%;
+    clear: both;
+}
+
+.go-live-img img {
+    max-width: 20%;
+}
+
+.go-live-img {
+    margin-top: 20%;
+}
+
+.go-live-text {
+    float: left;
+    margin-left: 26%;
+    margin-top: -23%;
+}
+
+.what-else {
+    margin-left: -78%;
+}
+
+.what-else a {
+    text-decoration: none;
+    color: #ff6c2c;
+    display: block;
+    padding: 107px 0px;
+    margin-left: -40px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+/* who is cpanel for */
+
+.who-is {
+    margin-top: 4%;
+    background-color: #293949;
+    padding: 58px;
+}
+
+.who-headign h1 {
+    color: white;
+    text-align: center;
+}
+
+.who-item {
+    text-align: center;
+    border: 1px solid #2768a3;
+}
+
+.who-img img {
+    max-width: 30%;
+}
+
+/* <!-- Become a cPanel Partner --> */
+
+.Partner {
+    margin-top: 6%;
+}
+
+.patner-main-div {
+    margin-left: 30%;
+}
+
+.partner-img img {
+    max-width: 30%;
+    margin: auto;
+}
+
+.partner-smal-heading a {
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* <!-- For all the latest cPanel news and updates --> */
+
+/* .bg-gradient {
+	background: linear-gradient(45deg,#83B655 0%,#179BD7 100%);
+} */
+
+/* .bg-gradient {
+	background: linear-gradient(45deg,#83B655 0%,#179BD7 100%);
+} */
+
+.bg-gradient {
+    height: 300px;
+    background: #82b655eb;
+}
+
+.update-heding h3 {
+    color: white;
+    margin-top: 3%;
+}
+
+.update-items.text-center {
+    margin-top: 7%;
+}
+
+.update-btn a {
+    display: block;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    width: 450px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: auto;
+    border: 1px solid white;
+}
+
+.have-img img {
+    max-width: 12%;
+    margin-top: 15%;
+    margin-left: 11%;
+}
+
+.have-text {
+    margin-left: 200px;
+    margin-top: -13%;
+}
+
+/* footer-section */
+
+.footer {
+    margin-top: 8%;
+    background-color: #273847;
+}
+
+.menu ul,
+h5 {
+    color: rgba(255, 255, 255, 0.396);
+}
+
+.menu ul li {
+    list-style: none;
+}
+
+.heading h5 {
+    margin-left: 30px;
+}
+
+.border0 {
+    border: 1px solid #495765;
+    width: 94%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.heading-h h1 {
+    font-size: 900;
+    color: #495765;
+    font-size: 80px;
+    margin-left: 38px;
+}
+
+.heading-h {
+    position: relative;
+}
+
+.footer-ns {
+	color: #495765;
+	line-height: 10px;
+	position: absolute;
+	left: 34%;
+	bottom: -403%;
+}
+
+.footer-icons {
+    margin-top: -83px;
+    position: absolute;
+    left: 66%;
+}
+
+.footer-icons ul {
+    text-align: end;
+    margin-right: 34px;
+    margin-top: -4%;
+}
+
+.footer-icons ul li {
+    padding: 15px;
+    font-size: 30px;
+    color: #495765;
+    display: inline-block;
+}
+
+/* smal-footer */
+
+.donw-footer {
+    margin: -8px;
+    background-color: #1c2833;
+}
+
+.smal-footer p {
+    font-size: 14px;
+    color: #495765;
+    margin-left: 30px;
+}
+
+.smal-footer-img img {
+    max-width: 20%;
+}
+
+.powrad-by p {
+    color: #abadaec8;
+}
+
+.powrad-by h4 {
+    font-weight: 900;
+    color: #495765;
+    font-size: 30px;
+    line-height: 0px;
+}
+
+.powrad-by {
+    margin-left: 30%;
+    margin-top: -16%;
+    padding: 20px;
+}
+/* fixd-btn */
+.fixd-btn {
+	position: fixed;
+	bottom: 3%;
+	margin-left: 1%;
+}
+.fixd-btn span i{
+	color: white;
+}
+.fixd-btn span {
+	height: 50px;
+	width: 49px;
+	background-color: #ff6c2c;
+	display: inline-block;
+	line-height: 47px;
+	text-align: center;
+	border-radius: 50%;
+	font-size: 30px;
+}
